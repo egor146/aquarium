@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<aquarium price="85.99">
+    <creature type="fish">
+        <name>Fish 1</name>
+        <price>12.45</price>
+    </creature>
+    <creature type="fish">
+        <name>Fish2</name>
+        <price>13.54</price>
+    </creature>
+    <accessory type="substrate">
+        <name>substrate</name>
+        <price>20.0</price>
+    </accessory>
+    <accessory type="filter">
+        <name>filter</name>
+        <price>20.0</price>
+    </accessory>
+    <accessory type="air_pump">
+        <name>air pump</name>
+        <price>20.0</price>
+    </accessory>
+</aquarium>
